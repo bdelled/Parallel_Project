@@ -1,14 +1,0 @@
-Warning: LBR backtrace method is not supported on this platform. DWARF backtrace method will be used.
-WARNING: OpenACC, cuDNN and cuBLAS rely on CUDA. CUDA tracing has been automatically enabled.
-Collecting data...
-
-Value = 95
-Time (s)= 0.096166
-Processing events...
-Saving temporary "/tmp/nsys-report-f0c4-d06b-5cb6-7850.qdstrm" file to disk...
-
-Creating final output files...
-Processing [0%                                                                ]Processing [==============================50%                                 ]Processing [==============================================================100%]Processing [0%                                                                ]Processing [==============================50%                                 ]Processing [=============================49%                                  ]Processing [============23%                                                   ]Processing [===========================46%                                    ]Processing [=============================================73%                  ]Processing [=============================================74%                  ]Processing [===============================================76%                ]Processing [==============================================================99% ]Processing [==============================================================100%]Processing [==============================================================100%]
-Saved report file to "/tmp/nsys-report-f0c4-d06b-5cb6-7850.qdrep"
-Report file moved to "/jet/home/bdelled/project/brutesysprof.qdrep"
-
