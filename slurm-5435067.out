@@ -1,0 +1,17 @@
+Warning: LBR backtrace method is not supported on this platform. DWARF backtrace method will be used.
+WARNING: OpenACC, cuDNN and cuBLAS rely on CUDA. CUDA tracing has been automatically enabled.
+Collecting data...
+
+Value = 95
+Time (s)= 0.054987
+Processing events...
+Saving temporary "/tmp/nsys-report-6f14-a757-4e7f-d67b.qdstrm" file to disk...
+
+Creating final output files...
+Processing [0%                                                                ]Processing [==============================50%                                 ]Processing [==============================================================100%]Processing [0%                                                                ]Processing [=============25%                                                  ]Processing [=============================49%                                  ]Processing [=============================================73%                  ]Processing [=============================================74%                  ]Processing [==============================================75%                 ]Processing [===============================================77%                ]Processing [==============================================================100%]Processing [==============================================================100%]
+Saved report file to "/tmp/nsys-report-6f14-a757-4e7f-d67b.qdrep"
+Unable to create output file /jet/home/bdelled/project/accsysprof.qdrep : File exists
+Use `--force-overwrite true` to override existing files.
+Please manually fetch report file(s) from:
+* /tmp/nsys-report-6f14-a757-4e7f-d67b.qdrep
+
